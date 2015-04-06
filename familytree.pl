@@ -8,5 +8,5 @@ ancestor(A, B) :- parent(A, C), ancestor(C, B).
 
 % Facts ------------------------------------------
 
-parent(khaled, ahmad).
-parent(ahmad, bilal).
+parent(k, a).
+parent(a, b).
